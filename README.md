@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:0040c1,100:00e5ff&height=120&section=header
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0040c1,100:00e5ff&height=120&section=header" />
+</p>
 
 # 👨🏻‍💻 Andrey Ferreira
 
@@ -47,3 +49,8 @@ Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyferr&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyferr)](https://github.com/andyferr/github-readme-stats)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0040c1,100:00e5ff&height=120&section=footer" />
+</p>
