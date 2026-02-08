@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0040c1,100:00e5ff&height=120&section=header" />
 </p>
+
 # 👨🏻‍💻 Andrey Ferreira
 
 **`Bacharelando em Ciência da Computação`**
