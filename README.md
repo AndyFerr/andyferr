@@ -5,18 +5,18 @@
 Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado como Técnico em Química pelo IFAL e, atualmente, curso Bacharelado em Ciência da Computação na Universidade Federal de Alagoas (UFAL). Sou apaixonado por resolver problemas complexos através da tecnologia.
 
 <p align="left">
-    <a href="https://github.com/AndreyFerreiraS?tab=repositories&sort=stargazers">
+    <a href="https://github.com/AndyFerr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AndreyFerreiraS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AndyFerr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/AndreyFerreiraS?tab=followers">
+    <a href="https://github.com/AndyFerr?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AndreyFerreiraS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/AndyFerr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -54,14 +54,14 @@ Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AndreyFerreiraS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AndyFerr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFerreiraS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
