@@ -26,7 +26,7 @@ Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado 
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyFerreiraS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+[![Andrey's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndreyFerreiraS&theme=tokyonight&layout=compact)](https://github.com/AndreyFerreiraS)
 
 ---
 
