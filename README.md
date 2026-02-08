@@ -4,23 +4,6 @@
 
 Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado como Técnico em Química pelo IFAL e, atualmente, curso Bacharelado em Ciência da Computação na Universidade Federal de Alagoas (UFAL). Sou apaixonado por resolver problemas complexos através da tecnologia.
 
-<p align="left">
-    <a href="https://github.com/AndyFerr?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AndyFerr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AndyFerr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AndyFerr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -36,13 +19,6 @@ Me chamo Andrey Ferreira, tenho 23 anos e moro em Maceió, Alagoas. Sou formado 
 
 <br/>
 <br/>
-
-### 🏆 Conquistas Acadêmicas
-
-* [cite_start]**Ouro:** Olimpíada Brasileira de Astronomia (2021, 2022)[cite: 61].
-* [cite_start]**Prata:** Olimpíada de Matemática de Alagoas (2022)[cite: 61].
-* [cite_start]**Bronze:** Olimpíada de Química Norte-Nordeste e de Alagoas[cite: 62].
-* [cite_start]**Menção Honrosa:** OBMEP (2019, 2021, 2022)[cite: 63].
 
 ---
 
